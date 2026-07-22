@@ -1,35 +1,47 @@
-# 🤖 Prompts Testados
+---
+
+# Resultados no NotebookLM
 
 ## Prompt 1
 
-**Pergunta feita para a IA:**
-
-Explique o conceito de Engenharia de Dados para uma pessoa iniciante.
+**Pergunta:**
+Explique o conceito de Engenharia de Dados para uma pessoa iniciante, utilizando as fontes adicionadas como base.
 
 **Resultado:**
-
-A IA apresentou uma explicação com os conceitos básicos da área e exemplos para facilitar o entendimento.
+O NotebookLM apresentou uma explicação dos fundamentos da Engenharia de Dados, destacando coleta, armazenamento, processamento e organização de dados.
 
 ---
 
 ## Prompt 2
 
-**Pergunta feita para a IA:**
-
-Compare Data Lake e Data Warehouse explicando suas diferenças.
+**Pergunta:**
+Crie um resumo dos principais conceitos de Engenharia de Dados presentes nas fontes.
 
 **Resultado:**
+A ferramenta organizou conceitos como banco de dados, processamento de dados, ferramentas e etapas utilizadas na área.
 
-A IA explicou as características, objetivos e principais diferenças entre os dois conceitos.
+---
+
+## Prompt 3
+
+**Pergunta:**
+Compare Data Lake e Data Warehouse.
+
+**Resultado:**
+O NotebookLM explicou as diferenças entre armazenamento de dados brutos e ambientes estruturados para análise.
+
+---
+
+## Prompt 4
+
+**Pergunta:**
+Crie um glossário com os principais termos de Engenharia de Dados encontrados nas fontes.
+
+**Resultado:**
+Foi criado um resumo com termos importantes da área, facilitando a revisão dos estudos.
 
 ---
 
 ## Dificuldades encontradas
 
-Durante os testes, algumas respostas estavam muito técnicas. Foi necessário melhorar a forma de escrever os prompts para obter respostas mais claras e organizadas.
-
----
-
-## Aprendizado
-
-Aprendi que prompts mais detalhados ajudam a Inteligência Artificial a gerar respostas mais completas e próximas do objetivo esperado.
+Durante os testes, foi necessário ajustar os prompts para obter respostas mais claras e alinhadas ao objetivo do estudo.
